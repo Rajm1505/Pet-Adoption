@@ -1,0 +1,29 @@
+*{margin :0; padding:0;box-sizing: border-box;}
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+.header-logo img {
+width: auto;
+height: auto;
+}
+.footer-logo {
+width: auto;
+height: auto;
+}
+</style>
+
+.carousel-inner img {
+    width: 100%;
+    height: 9vh%;
+    
+  }
+  
+.aboutimg{
+    width: 100%;
+    height: 100% !important;
+}
+.bg-dark{
+    display: inline;
+}
+.btn btn-info{
+    background-color: black;
+}
